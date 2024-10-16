@@ -230,7 +230,7 @@ Smart Home Using Arduino
 ## LANGUAGES
 Vietnamese (Native)
 
-English (Spoken & Written)
+English (Spoken & Written) : 7.5 IELTS, 930 Toeic
 ## ADWARDS AND HONORS
 
 <span class="iconify" data-icon="tabler:award"></span> Prize for Student of 5 Merits
