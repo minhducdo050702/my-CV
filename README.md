@@ -1,5 +1,5 @@
 ---
-name: DO MINH DUC, Bachelor
+name: DO MINH DUC, Master Student
 header:
   - text: |
       <span style="font-size: 1.2em; font-weight: bold; color:#377BB5";>Applying for: Graduate Program</span>
@@ -36,6 +36,15 @@ Bachelor in Computer Science
 
 CPA
   ~ 3.71/4.00
+**Korea Advanced Institute of Science and Technology
+~ <span class="iconify" data-icon="tabler:map-pin"></span> Daejeon, Korea
+
+
+Bachelor in Computer Science
+~ <span class="iconify" data-icon="tabler:calendar-week"></span> 02/2025- Now
+
+
+
 ## EXPERIENCE
 <span style="font-size: 1.2em; font-weight: bold; color:#377BB5">Software Engineer</span>
 
@@ -72,11 +81,27 @@ CPA
 
 <hr style="border-style:dashed;">
 <span style="font-size: 1.2em; font-weight: bold; color:#377BB5">Research Assistant</span>
+<hr style="border-style:dashed;">
+
+
+<span style="font-size: 1em; font-weight: bold; color:#558ce6">Korea Advanced Institute of Science and Technology
+
+<span class="iconify" data-icon="tabler:map-pin"></span> Daejeon, Korea
+~ <span class="iconify" data-icon="tabler:calendar-week"></span>02/2025 - Present
+
+**VITON - Virtual Tryon**
+
+Virtual try-on is a narrow research branch of the Generative Adversarial Network and Diffusion Model. However, in order to perform the Virtual try-on problem, there are other subproblems that need to be worked on, such as image segmentation or pose estimation, and many more subproblems.
+
+**Differential Privacy DL Optimizers Research**
+
+Right now, i am researching about the intersection lines between DP and DL.
+
 
 <span style="font-size: 1em; font-weight: bold; color:#558ce6">Hanoi University of Science and Technology
 
 <span class="iconify" data-icon="tabler:map-pin"></span> Hanoi, Vietnam 
-~ <span class="iconify" data-icon="tabler:calendar-week"></span>11/2023 - Present
+~ <span class="iconify" data-icon="tabler:calendar-week"></span>11/2023 - 09/2024
 
 **Quantum Neural Network**
 
