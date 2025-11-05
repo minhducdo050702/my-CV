@@ -3,9 +3,9 @@ name: DO MINH DUC, Master Student
 header:
   - text: |
       <span style="font-size: 1.2em; font-weight: bold; color:#377BB5";>Applying for: Graduate Program</span>
-  - text: <span class="iconify" data-icon="tabler:phone"></span> (+84) 812-898-185
+  - text: <span class="iconify" data-icon="tabler:phone"></span> (+82) 010 - 3049 - 5702
     newLine: true
-  - text: <span class="iconify" data-icon="tabler:map-pin"></span> Hanoi, Vietnam
+  - text: <span class="iconify" data-icon="tabler:map-pin"></span> Daejeon, Korea
   - text: <span class="iconify" data-icon="tabler:mail"></span> duc.dm200158@gmail.com
     link: mailto:duc.dm200158@gmail.com
   - text: <span class="iconify" data-icon="tabler:brand-github"></span> Minh Duc Do
@@ -18,7 +18,7 @@ header:
 ## SUMMARY
 
 - Highly motivated computer science graduate with extensive experience in Machine Learning (ML) and Deep Learning (DL).
-- Proven track record of developing innovative solutions in Predictive Mdeling, Reinforcement Learning, and Image Classification. 
+- Proven track record of developing innovative solutions in Predictive Modeling, Reinforcement Learning, and Image Classification. 
 - Skilled in Data Analysis, Algorithm Development, and Quantum Computing applications. 
 - Experienced in Cyper Security and Android Programming.
 - Passionate about advancing research in ML and DL, with a strong foundation in various programming languages and technologies. 
@@ -35,12 +35,13 @@ Bachelor in Computer Science
 
 
 CPA
-  ~ 3.71/4.00
-**Korea Advanced Institute of Science and Technology
+~ 3.71/4.00
+
+**Korea Advanced Institute of Science and Technology**
 ~ <span class="iconify" data-icon="tabler:map-pin"></span> Daejeon, Korea
 
 
-Bachelor in Computer Science
+Master in Computer Science
 ~ <span class="iconify" data-icon="tabler:calendar-week"></span> 02/2025- Now
 
 
@@ -51,7 +52,7 @@ Bachelor in Computer Science
 <span style="font-size: 1em; font-weight: bold; color:#558ce6">Samsung RnD Vietnam
 
 <span class="iconify" data-icon="tabler:map-pin"></span> Hanoi, Vietnam 
-~ <span class="iconify" data-icon="tabler:calendar-week"></span>06/2024 - Present
+~ <span class="iconify" data-icon="tabler:calendar-week"></span>06/2024 - 02/2025
 
 **System Security Part**
 
@@ -270,3 +271,6 @@ English (Spoken & Written) : 7.5 IELTS, 930 Toeic
 
 <span class="iconify" data-icon="tabler:award"></span> Samsung Award for Excellent Intern
   ~ [Samsung RnD Vietnam]
+
+## PUBLICATION
+D. D. Minh, A. T. L. Duc, D. H. Viet, N. T. Le, and Q. D. Tran, “QuantaMind: A Robust and Efficient Framework for Quantum Machine Learning Applications,” in Proc. 14th Int. Symp. Inf. Commun. Technol. (SOICT 2025), 2025.
